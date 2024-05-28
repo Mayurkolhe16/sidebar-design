@@ -1,0 +1,36 @@
+.container{
+    /* background-color: deeppink; */
+    display: flex;
+    min-height: 100vh;
+}
+.sidebar{
+    background-color: #244855;
+    width: 200px;
+}
+.content{
+    background-color: white;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.menu-items{
+    background-color:  white;
+    margin: 20px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.active-menu{
+    background-color: ;
+    
+}
+
+.menu-text{
+    margin-left: 5px;
+
+}
+ 
